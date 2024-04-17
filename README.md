@@ -38,7 +38,7 @@
 - #### Time Series Forecasting
   - 
 - #### Data Visualization with Tableu
-  -(https://public.tableau.com/app/profile/haiyan.qin/vizzes)
+  -[My Tableau Public](https://public.tableau.com/app/profile/haiyan.qin/vizzes)
 - #### Data Visualization with Power Bi
   - 
 
