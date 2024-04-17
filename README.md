@@ -20,28 +20,32 @@
 
 - #### SQL
   - Stockholm Weather Project
-- #### Data Cleansing with Python-Pipeline & Data Visualization
+- #### Data Wrangling with Python-Pipeline & Data Visualization
+  - Lego Sets Analysis
   - Netflix Global Top 100
   - [Spotify Top Songs](https://github.com/HiYannnn/Python-Practice-Projects/tree/main/Spotify)
   - [WINES](https://github.com/HiYannnn/Python-Practice-Projects/tree/main/Wines)
-  - 
+  - Nobel-Prize Analysis
+  - IMDB analysis
+  - Flight Delays and Cancellations
 - #### Web Scraping & Data Visualization with Python
   - Sold Apartment Prices in Stockholm Kommun
 - #### Customer Analytics with Python
   - E-commerce Customer Churn
 - #### Regression
   - 
-
 - #### Machine Learning
   - 
-
 - #### Time Series Forecasting
   - 
 - #### Data Visualization with Tableu
   -[My Tableau Public](https://public.tableau.com/app/profile/haiyan.qin/vizzes)
 - #### Data Visualization with Power Bi
   - 
-
+- #### Web Design (Amateur)
+  -[React Portfolio Website](https://hiyannnn.github.io/)
+  -[HTML5 Portfolio Website](https://hiyannnn.github.io/github.io/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haiyanqin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haiyanqin" height="30" width="40" /></a>
