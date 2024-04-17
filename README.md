@@ -1,7 +1,7 @@
 ## Hi, I'm Haiyan Qin!
 ## [A Data Analyst Student @ HyperIsland Sweden!](https://www.linkedin.com/haiyanqin)
 
-- ⚡ Fun Fact About Me:
+- ⚡ ####Fun Fact About Me:
 
     Yoga Fan| Gourmet | In the Moment On the Edge | Biodegradable | Travel Enthusiast | Love Advanture and to Try New Things
 
@@ -26,6 +26,7 @@
 
 - #### Time Series Forecasting
   - 
-- #### Data Visualization with Power BI and Tableu
-  -
+- #### Data Visualization with Tableu
+  -(https://public.tableau.com/app/profile/haiyan.qin/vizzes)
+- #### Data Visualization with Power Bi
   - 
